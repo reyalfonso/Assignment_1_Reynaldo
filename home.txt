@@ -1,1 +1,2 @@
 Navigatiion should be put in order..
+company logo must be visible and the right size

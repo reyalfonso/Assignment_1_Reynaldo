@@ -1,1 +1,2 @@
 the tax in the price should be included in the page.
+highlight the free delivery for member.
